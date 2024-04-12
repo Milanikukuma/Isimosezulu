@@ -27,8 +27,8 @@ namespace Isimosezulu.Models
 
         public class Coord
         {
-            public float lon { get; set; }
-            public float lat { get; set; }
+            public float longitude { get; set; }
+            public float latitude { get; set; }
         }
 
         public class Main
